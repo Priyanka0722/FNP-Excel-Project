@@ -93,7 +93,7 @@ FNP Excel Project/
 
 ## 📸 Dashboard Preview
 
-(FNP Excel Project Dashboard.png)
+[![FNP Sales Dashboard](FNP%20Excel%20Project%20Dashboard.png)](FNP%20Excel%20Project%20Dashboard.png)
 
 ---
 
