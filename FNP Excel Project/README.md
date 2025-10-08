@@ -82,18 +82,12 @@ FNP Excel Project/
 │ ├── orders.csv
 │ └── products.csv
 │
-├── FNP Excel Project Dashboard.png
+├──README.md 
 │
-├── Ferns and Petals Analysis.pdf
+├── Ferns and Petals Sales Analysis.pdf
 │
-└── README.md
+└──FNP Excel Project Dashboard.png 
 
-
----
-
-## 📸 Dashboard Preview
-
-[![FNP Sales Dashboard](FNP%20Excel%20Project%20Dashboard.png)](FNP%20Excel%20Project%20Dashboard.png)
 
 ---
 
@@ -111,7 +105,7 @@ FNP Excel Project/
 
 **Priyanka Thapa** 
 [GitHub Profile](https://github.com/Priyanka0722) 
-[LinkedIn Profile](https://www.linkedin.com/in/priyanka-thapa-799a862bb/) 
+[LinkedIn Profile](https://www.linkedin.com/in/Priyanka-thapa-) 
 
 📧 *thapapriyanka2207@gmail.com*
 
